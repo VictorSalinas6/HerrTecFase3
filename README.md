@@ -37,6 +37,10 @@ Configuracion del ambiente JAVA
 Obtenemos la plantilla de excele para que podamos pasar la informacion que necesitamos
 configuramos nuestta base de datos en la plantlla de excel del software y la cargamos
 
+# RoadMap
+
+Se debe completar el programa para que funcione de la mejor manera que se pueda, por el momento solo se tiene el programa para dar una idea del producto final
+
 # Desarrollador
 
 Victor Antonio Salinas Quezada 2844908
