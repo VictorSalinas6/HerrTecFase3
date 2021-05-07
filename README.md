@@ -1,21 +1,42 @@
 # HerrTecFase3
 Productividad Basada en Herramientas Tecnologicas
 
-1.	Mediante la integración del administrador de código (github) y el administrador de proyectos (gitlo/zube), crea las actividades a llevar a cabo, categorízalas con etiquetas y establece un tiempo estimado, esto con base en tu análisis previamente realizado. En trello, es importante agregar todo el detalle que sea posible, esto facilitará el análisis, desarrollo y solución del requerimiento, justificación, etc.
-Se deberán hacer las siguientes actividades:
-1.	Se creara una base de datos donde se guarden todos los artículos de la empresa para que se tenga una buena contabilidad de los productos que se tienen en la empresa.
-2.	Se debe crear una base de datos distintos con la información de los clientes de la empresa.
-3.	Se crea un calendario virtual donde se pueden agendar encargos
-4.	Se da una notificación días antes para cuando un encargo debe estar listo
-5.	Se puede guardar información fácilmente y editar las bases de datos
+# Descripcion
 
+Este es un programa para el uso de una pequeña compañia que tenia problemas manejando sus ventas y las fechas de sus encargos, este programa busca solucionar este problema al recaudar los datos de los compradores para un uso mas eficaz de la informacion y ademas de mandar recordatorios de los encargos directamente a los telefonos de los empleados encargados.
 
-Nota: En estas tareas, es importante establecer lo que no se cubrirá y en la primera versión y categorizarla para futura referencia.
-2.	Agrupar las tareas en etapas (milestones), las cuales definirán la madurez del producto. Dentro del proyecto integrador se manejarán dos etapas: Beta y General Availability (GA). Beta se utilizará para agrupar todo el código que sea de desarrollo y GA, será el código final. Esto te ayudará a validar cuál es el progreso de tu trabajo dentro de la solución.
-Etapa Beta:
-1.	Creación de las bases de datos
-2.	Creación del calendario
-Etapa General Availability:
-1.	Hacer que este calendario pueda ser visto por cualquier persona con acceso
-2.	Lograr dar notificaciones a los empleados sobre los encargos
-3.	Se puede modificar la información de las bases de datos facilmente
+# Problema identificado
+
+En la compañia de "Papier Lunier" es una pequeña empresa donde muchas veces los encargos se confunden o no se manejan de la mejor manera y esto puede generar problemas para los clientes
+
+# Solucion
+
+Se tendra una base de datos de los clientes que vayan pidiendo sus pedidos y asi se tendra poco a poco una base de datos con la informacion de los clientes que mas pidan y asi poder atenderlos mejor y hasta darles algun tipo de promocion por esto mismo
+
+Se creara una aplicacion que notifique a los empleados encargados de los pedidos que se acerquen a la fecha de entrega
+
+# Requerimentos
+
+Se necesita tener un reproductor Java para hacer pruebas del programa y usarlo
+Lectura de archivos “.xls”
+Visualización de información
+Opción de agregar información desde el software
+
+# Instalacion
+
+Descargar el proyecto del repositorio
+Descomprimir el archivo para obtener la carpeta del proyecto
+Abrimos la carpeta del proyecto
+Abrimos la carpeta de bin en la cual encontraremos el archivo .jar
+Iniciamos el ejecutable
+
+# Configuracion
+
+Se debe instalar la version mas actual de JAVA
+Configuracion del ambiente JAVA
+Obtenemos la plantilla de excele para que podamos pasar la informacion que necesitamos
+configuramos nuestta base de datos en la plantlla de excel del software y la cargamos
+
+# Desarrollador
+
+Victor Antonio Salinas Quezada 2844908
